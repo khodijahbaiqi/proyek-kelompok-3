@@ -23,6 +23,7 @@ p{
 ul{
     list-style-type:none;
     background-color: rgb(249, 250, 245);
+    text-align: center;
 }
 
 li{
